@@ -18,6 +18,6 @@ Student **Politechniki Śląskiej** (**Informatyka Przemysłowa**) — tworzę a
 - **🔧 Narzędzia:** Git, GitHub
 
 ### 🚀 Projekty (wybrane)
-- **SystemMonitor** — usługa Windows do zbierania metryk (CPU/RAM/dyski + per‑proces), lokalna historia i wysyłka do kolektora REST.
-- **RemoteBackup** — usługa Windows do zaplanowanych kopii przez FTPS (mirror + snapshoty).
-- **VideoPlatform** — projekt full‑stack: backend w C# + frontend w TypeScript.
+- **[SystemMonitor](https://github.com/taskscape/SystemMonitor)** — usługa Windows do zbierania metryk (CPU/RAM/dyski + per‑proces), lokalna historia i wysyłka do kolektora REST.
+- **[RemoteBackup](https://github.com/taskscape/RemoteBackup)** — usługa Windows do zaplanowanych kopii przez FTPS (mirror + snapshoty).
+- **[VideoPlatform](https://github.com/MikolajSkaziak/VideoPlatform)** — projekt full‑stack: backend w C# + frontend w TypeScript.
