@@ -1,16 +1,28 @@
-## Hi there 👋
+## Cześć! 👋 Nazywam się Mikołaj
 
-<!--
-**MikolajSkaziak/MikolajSkaziak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem studentem **Politechniki Śląskiej** na kierunku **Informatyka Przemysłowa**.  
+Najczęściej tworzę rozwiązania w **.NET (C#)** oraz frontend w **React**.
 
-Here are some ideas to get you started:
+### 🚀 Wybrane projekty
+- **SystemMonitor** — usługa Windows zbierająca metryki (CPU/RAM/dyski + per‑proces), trzymająca lokalną historię i wysyłająca paczki do kolektora REST.
+- **RemoteBackup** — usługa Windows do zaplanowanych kopii przez FTPS (mirror zdalnego folderu + snapshoty).
+- **VideoPlatform** — projekt łączący backend w C# i frontend w TypeScript (pełny stack).
+- **LinkedIn scraper** — narzędzie do pobierania danych z LinkedIn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologie
+- **Backend:** C#, .NET, usługi Windows
+- **Frontend:** React, TypeScript/JavaScript, HTML, CSS
+- **Bazy danych:** SQL (zależnie od projektu)
+- **Dev:** Git, GitHub
+
+### 🎯 Co mnie kręci
+- aplikacje webowe (full‑stack)
+- integracje i automatyzacja (backup, monitoring)
+- performance i zbieranie metryk
+- czysta architektura i dobre praktyki w .NET
+
+### 📫 Kontakt
+- LinkedIn: https://www.linkedin.com/in/mikolajskaziak
+
+---
+Dzięki za odwiedzenie profilu!
