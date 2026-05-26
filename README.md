@@ -39,6 +39,4 @@
 
 * **[SystemMonitor](https://github.com/taskscape/SystemMonitor)** Usługa Windows do zbierania metryk (CPU/RAM/dyski + per‑proces), oferująca lokalną historię i wysyłkę danych do kolektora REST.
 
-* **[RemoteBackup](https://github.com/taskscape/RemoteBackup)** Narzędzie typu Windows Service do automatyzacji zaplanowanych kopii zapasowych przez FTPS (z obsługą mirroringu i snapshotów).
-
 * **[VideoPlatform](https://github.com/MikolajSkaziak/VideoPlatform)** Rozbudowany projekt full‑stack łączący solidny backend napisany w C# z nowoczesnym interfejsem w TypeScript.
