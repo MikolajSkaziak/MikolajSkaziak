@@ -1,28 +1,19 @@
-## Cześć! 👋 Nazywam się Mikołaj
+## Mikołaj Skaziak
 
-Jestem studentem **Politechniki Śląskiej** na kierunku **Informatyka Przemysłowa**.  
-Najczęściej tworzę rozwiązania w **.NET (C#)** oraz frontend w **React**.
+Student **Politechniki Śląskiej** (**Informatyka Przemysłowa**) skoncentrowany na tworzeniu aplikacji w **.NET (C#)** oraz frontendu w **React**.
 
-### 🚀 Wybrane projekty
-- **SystemMonitor** — usługa Windows zbierająca metryki (CPU/RAM/dyski + per‑proces), trzymająca lokalną historię i wysyłająca paczki do kolektora REST.
-- **RemoteBackup** — usługa Windows do zaplanowanych kopii przez FTPS (mirror zdalnego folderu + snapshoty).
-- **VideoPlatform** — projekt łączący backend w C# i frontend w TypeScript (pełny stack).
-- **LinkedIn scraper** — narzędzie do pobierania danych z LinkedIn.
+- **Główne technologie:** C# / .NET, React, TypeScript
+- **Zainteresowania:** aplikacje webowe (full‑stack), automatyzacja, monitoring, performance
+- **Kontakt:** LinkedIn: https://www.linkedin.com/in/mikolajskaziak
 
-### 🛠️ Technologie
-- **Backend:** C#, .NET, usługi Windows
-- **Frontend:** React, TypeScript/JavaScript, HTML, CSS
-- **Bazy danych:** SQL (zależnie od projektu)
-- **Dev:** Git, GitHub
+### Projekty (wybrane)
+- **SystemMonitor** — usługa Windows do zbierania metryk (CPU/RAM/dyski + per‑proces), lokalna historia i wysyłka do kolektora REST.
+- **RemoteBackup** — usługa Windows do zaplanowanych kopii przez FTPS (mirror + snapshoty).
+- **VideoPlatform** — projekt full‑stack: backend w C# + frontend w TypeScript.
 
-### 🎯 Co mnie kręci
-- aplikacje webowe (full‑stack)
-- integracje i automatyzacja (backup, monitoring)
-- performance i zbieranie metryk
-- czysta architektura i dobre praktyki w .NET
-
-### 📫 Kontakt
-- LinkedIn: https://www.linkedin.com/in/mikolajskaziak
-
----
-Dzięki za odwiedzenie profilu!
+### Stack
+- **Backend:** C#, .NET (w tym usługi Windows)
+- **Frontend:** React, TypeScript/JavaScript
+- **UI:** HTML, CSS
+- **Bazy danych:** SQL (w zależności od projektu)
+- **Narzędzia:** Git, GitHub
