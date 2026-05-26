@@ -2,6 +2,7 @@
 
 Student **Politechniki Śląskiej** (**Informatyka Przemysłowa**) skoncentrowany na tworzeniu aplikacji w **.NET (C#)** oraz frontendu w **React**.
 
+- **Lokalizacja:** Katowice / Remote
 - **Główne technologie:** C# / .NET, React, TypeScript
 - **Zainteresowania:** aplikacje webowe (full‑stack), automatyzacja, monitoring, performance
 - **Kontakt:** LinkedIn: https://www.linkedin.com/in/mikolajskaziak
