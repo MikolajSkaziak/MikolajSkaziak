@@ -1,6 +1,6 @@
 # 👨‍💻 Mikołaj Skaziak
 
-**Student Politechniki Śląskiej (Informatyka Przemysłowa)** — tworzę wydajne aplikacje w **.NET (C#) i Java** oraz nowoczesny frontend w **React**.
+**Student Politechniki Śląskiej (Informatyka Przemysłowa)** - tworzę wydajne aplikacje w **.NET (C#) i Java** oraz nowoczesny frontend w **React**.
 
 🌍 **Lokalizacja:** Katowice / Remote  
 💼 **Profil:** .NET / Java / Full‑stack  
