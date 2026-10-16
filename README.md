@@ -16,14 +16,14 @@
 
 ### ⚙️ Backend & Architektura
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,rabbitmq" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,next,rabbitmq" alt="Backend Stack" />
 </a>
 
 > *ORM:* **Entity Framework (EF Core)**
 
 ### 🎨 Frontend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,figma" alt="Frontend Stack" />
 </a>
 
 ### 🗄️ Bazy danych, Chmura & DevOps
