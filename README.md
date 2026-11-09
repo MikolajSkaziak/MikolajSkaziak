@@ -17,7 +17,6 @@
     <line x1="58" y1="128" x2="198" y2="128" stroke="#FFFFFF" stroke-width="14"/>
   </svg>
 </a>
----
 
 ## 🧰 Stack Technologiczny
 
