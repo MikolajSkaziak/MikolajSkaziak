@@ -9,6 +9,9 @@
 <a href="https://www.linkedin.com/in/mikolajskaziak">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
+<a href="https://www.mikolajskaziak.pl">
+  <img src="https://api.iconify.design/lucide:briefcase.svg" alt="Portfolio" width="48" height="48" />
+</a>
 
 ---
 
