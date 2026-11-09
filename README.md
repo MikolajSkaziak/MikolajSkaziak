@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://www.mikolajskaziak.pl">
-  <img src="https://api.iconify.design/lucide:briefcase.svg" alt="Portfolio" width="48" height="48" />
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
 ---
