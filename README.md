@@ -4,14 +4,10 @@
 
 🌍 **Lokalizacja:** Katowice / Remote  
 💼 **Profil:** .NET / Java / Full‑stack  
-🐾 **Fun fact:** Mam kotkę - Zofię 🐈  
+🐾 **Fun fact:** Mam 2 koty - Zofię i Michael'a 🐈  
 
-<a href="https://www.linkedin.com/in/mikolajskaziak">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://www.mikolajskaziak.pl">
-  <img src="https://skillicons.dev/icons?i=devto" alt="Portfolio" />
-</a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mikolajskaziak)&nbsp;
+[![Portfolio](https://skillicons.dev/icons?i=devto)](https://www.mikolajskaziak.pl)
 
 ## 🧰 Stack Technologiczny
 
