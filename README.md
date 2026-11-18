@@ -21,7 +21,7 @@ ORM: Entity Framework Core
 
 **Frontend i mobile**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,threejs,vite,expo,figma" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Astro, Three.js, Vite, Figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,threejs,vite,figma" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Astro, Three.js, Vite, Figma" />
 
 **Bazy danych, chmura, DevOps**
 
