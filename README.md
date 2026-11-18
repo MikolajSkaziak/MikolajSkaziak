@@ -36,4 +36,5 @@
 
 * **[SystemMonitor](https://github.com/taskscape/SystemMonitor)** Usługa Windows do zbierania metryk (CPU/RAM/dyski + per‑proces), oferująca lokalną historię i wysyłkę danych do kolektora REST.
 
-* **[VideoPlatform](https://github.com/MikolajSkaziak/VideoPlatform)** Rozbudowany projekt full‑stack łączący solidny backend napisany w C# z nowoczesnym interfejsem w TypeScript.
+* **[FitIt](https://github.com/MikolajSkaziak/FitIT)** Aplikacja mobilna, która składa stroje z ubrań, które już masz w szafie, i dobiera je do pogody oraz okazji. Każdy strój możesz zobaczyć na manekinie o swojej sylwetce albo na wygenerowanym zdjęciu, a stylista AI podpowie, co włożyć wieczorem i co warto dokupić. Zaprojektowałem i zbudowałem ją od zera: aplikację w React Native (Expo), serwer w .NET oraz integracje z Gemini i fal.ai.
+
