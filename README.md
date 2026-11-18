@@ -1,40 +1,38 @@
-# 👨‍💻 Mikołaj Skaziak
+# Cześć, jestem Mikołaj 👋
 
-**Student Politechniki Śląskiej (Informatyka Przemysłowa)** - tworzę wydajne aplikacje w **.NET (C#) i Java** oraz nowoczesny frontend w **React**.
+Studiuję Informatykę Przemysłową na Politechnice Śląskiej. Backend piszę w .NET (C#) i Javie, frontend w React.
 
-🌍 **Lokalizacja:** Katowice / Remote  
-💼 **Profil:** .NET / Java / Full‑stack  
-🐾 **Fun fact:** Mam 2 koty - Zofię i Michael'a 🐈  
+Pracuję w [Media-Press.TV S.A.](https://media-press.tv), a poza tym robię strony internetowe dla osób prywatnych i firm. Realizacje są na [mikolajskaziak.pl](https://www.mikolajskaziak.pl).
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mikolajskaziak)&nbsp;
-[![Portfolio](https://skillicons.dev/icons?i=devto)](https://www.mikolajskaziak.pl)
+- 📍 Katowice albo zdalnie
+- 💼 .NET, Java, full-stack
+- 🐈 Mam dwa koty: Zofię i Michaela
 
-## 🧰 Stack Technologiczny
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikolajskaziak)
+[![Portfolio](https://img.shields.io/badge/mikolajskaziak.pl-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mikolajskaziak.pl)
 
-### ⚙️ Backend & Architektura
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,next,rabbitmq" alt="Backend Stack" />
-</a>
+## Stack
 
-> *ORM:* **Entity Framework (EF Core)**
+**Backend**
 
-### 🎨 Frontend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,figma" alt="Frontend Stack" />
-</a>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,rabbitmq" alt="C#, .NET, Java, Spring, RabbitMQ" />
 
-### 🗄️ Bazy danych, Chmura & DevOps
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,azure,git,github" alt="Bazy danych i narzędzia" />
-</a>  
+ORM: Entity Framework Core
 
-> *Inne technologie bazodanowe:* **MS SQL Server**
+**Frontend i mobile**
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,threejs,vite,expo,figma" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Astro, Three.js, Vite, Expo, Figma" />
 
-## 🚀 Wybrane Projekty
+**Bazy danych, chmura, DevOps**
 
-* **[SystemMonitor](https://github.com/taskscape/SystemMonitor)** Usługa Windows do zbierania metryk (CPU/RAM/dyski + per‑proces), oferująca lokalną historię i wysyłkę danych do kolektora REST.
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,azure,git,github" alt="PostgreSQL, SQLite, Docker, Azure, Git, GitHub" />
 
-* **[FitIt](https://github.com/MikolajSkaziak/FitIT)** Aplikacja mobilna, która składa stroje z ubrań, które już masz w szafie, i dobiera je do pogody oraz okazji. Każdy strój możesz zobaczyć na manekinie o swojej sylwetce albo na wygenerowanym zdjęciu, a stylista AI podpowie, co włożyć wieczorem i co warto dokupić. Zaprojektowałem i zbudowałem ją od zera: aplikację w React Native (Expo), serwer w .NET oraz integracje z Gemini i fal.ai.
+Do tego MS SQL Server.
 
+## Projekty
+
+**[FitIt](https://github.com/MikolajSkaziak/FitIT)**  
+Aplikacja mobilna, która składa stroje z ubrań, które już masz w szafie, i dobiera je do pogody oraz okazji. Każdy strój możesz zobaczyć na manekinie o swojej sylwetce albo na wygenerowanym zdjęciu, a stylista AI podpowie, co włożyć wieczorem i co warto dokupić. Zaprojektowałem i zbudowałem ją od zera: aplikację w React Native (Expo), serwer w .NET oraz integracje z Gemini i fal.ai.
+
+**[SystemMonitor](https://github.com/taskscape/SystemMonitor)**  
+Monitoring komputerów w .NET 10. Agent na Windows i Linuksie co sekundę zbiera użycie CPU, RAM i dysków oraz dane o procesach. Gdy serwer nie odpowiada, trzyma pomiary lokalnie, a potem wysyła je do kolektora z dashboardem w przeglądarce (SQLite, historia z 7 dni). Do tego aplikacja mobilna w MAUI i gotowe instalatory .exe oraz .deb.
